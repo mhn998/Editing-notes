@@ -1,2 +1,5 @@
-# hello-world-
-initial commit
+# Reading-notes
+
+
+## What is Growth Mindset?
+
